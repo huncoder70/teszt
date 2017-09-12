@@ -1,0 +1,11 @@
+{
+    "city": "Seattle",
+    "name": "Brian",
+    "teszt_adatok": [
+        {
+            "teszt": "123"
+        }
+    ],
+    "x": 9,
+    "y": 11
+}
